@@ -6,10 +6,10 @@
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
       "env": {
        "OWNER_NAME": {
-      "description": "Put Owner Name Here"
+      "description": "skilo"
     },
         "OWNER_NUMBER": {
-      "description": "Put your number here"
+      "description": "2250709551628"
     },
          "BOTNAME": {
       "description": "Name of your bot. Ex: - TOGE-MD-V3"
